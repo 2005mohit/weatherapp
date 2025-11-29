@@ -1,0 +1,3 @@
+git remote add origin https://github.com/2005mohit/weatherapp.git
+git branch -M main
+git push -u origin main
